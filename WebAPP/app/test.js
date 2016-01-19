@@ -1,8 +1,8 @@
 import React from 'react';
-import jquery from '../node_modules/materialize-css/node_modules/jquery/dist/jquery.min.js';
+import $ from 'jquery';
 import materializeJs from '../node_modules/materialize-css/dist/js/materialize.min.js';
 import materializeCss from '../node_modules/materialize-css/dist/css/materialize.min.css';
-//require('./test.css');
+
 export default class Test extends React.Component{
 	render() {
 		return (
