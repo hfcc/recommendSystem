@@ -1,7 +1,7 @@
 import React from 'react';
 import $ from 'jquery';
-import materializeJs from '../node_modules/materialize-css/dist/js/materialize.min.js';
-import materializeCss from '../node_modules/materialize-css/dist/css/materialize.min.css';
+import 'materialize-css/bin/materialize';
+import 'materialize-css/bin/materialize.css';
 
 export default class Test extends React.Component{
 	render() {
