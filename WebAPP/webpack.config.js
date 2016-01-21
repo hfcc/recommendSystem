@@ -36,7 +36,7 @@ module.exports = {
         ]
     },
     plugins: [new HtmlWebpackPlugin({
-        title: 'recommend',
+        title: 'Recommend Your Love',
         template: 'src/html_template/index-template.html',
         inject: 'body'
     })]
