@@ -23,6 +23,7 @@
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
+    "bootstrap": "^3.3.6",
     "history": "^1.17.0",
     "jquery": "^2.2.0",
     "react": "^0.14.6",
