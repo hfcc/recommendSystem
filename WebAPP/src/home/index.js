@@ -17,7 +17,7 @@ class Home extends React.Component {
     }
 }
 
-render(<Home />, document.body);
+render(<Home />, document.getElementById('container'));
 
 
 
